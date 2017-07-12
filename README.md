@@ -2,4 +2,14 @@
 
 [Website](https://hacktiv8.com/go-scholartech/)
 
-I just re-write the test from K-script (???) to Golang.
+### Skills Test
+
+- Question 1 to 3
+
+I just re-write the function from K-script to Golang.I
+
+- Question 4 to ...
+
+Create a program to solve the problem
+
+- ...
