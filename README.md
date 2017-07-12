@@ -6,9 +6,9 @@
 
 #### Question 1 to 3
 
-I just re-write the function from K-script to Golang.I
+I just re-write the function from K-script to Golang.
 
 #### Question 4 to ...
 
-Create a program to solve the problem
+Create a program to solve the problem.
 
